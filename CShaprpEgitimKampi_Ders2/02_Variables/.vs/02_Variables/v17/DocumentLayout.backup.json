@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CSharp_Kamp\\CShaprpEgitimKampi_Ders2\\02_Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18235442-9D4A-446E-A563-4A4EBF936B0E}|02_Variables\\02_Variables.csproj|d:\\github\\csharp_kamp\\cshaprpegitimkampi_ders2\\02_variables\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18235442-9D4A-446E-A563-4A4EBF936B0E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSharp_Kamp\\CShaprpEgitimKampi_Ders2\\02_Variables\\02_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Variables\\Program.cs",
+              "ToolTip": "D:\\GitHub\\CSharp_Kamp\\CShaprpEgitimKampi_Ders2\\02_Variables\\02_Variables\\Program.cs",
+              "RelativeToolTip": "02_Variables\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wJ4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:52:01.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

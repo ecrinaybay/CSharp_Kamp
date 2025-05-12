@@ -1,0 +1,7 @@
+D:\GitHub\CSharp_Kamp\CShaprpEgitimKampi_Ders2\02_Variables\02_Variables\bin\Debug\02_Variables.exe.config
+D:\GitHub\CSharp_Kamp\CShaprpEgitimKampi_Ders2\02_Variables\02_Variables\bin\Debug\02_Variables.exe
+D:\GitHub\CSharp_Kamp\CShaprpEgitimKampi_Ders2\02_Variables\02_Variables\bin\Debug\02_Variables.pdb
+D:\GitHub\CSharp_Kamp\CShaprpEgitimKampi_Ders2\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+D:\GitHub\CSharp_Kamp\CShaprpEgitimKampi_Ders2\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp_Kamp\CShaprpEgitimKampi_Ders2\02_Variables\02_Variables\obj\Debug\02_Variables.exe
+D:\GitHub\CSharp_Kamp\CShaprpEgitimKampi_Ders2\02_Variables\02_Variables\obj\Debug\02_Variables.pdb
