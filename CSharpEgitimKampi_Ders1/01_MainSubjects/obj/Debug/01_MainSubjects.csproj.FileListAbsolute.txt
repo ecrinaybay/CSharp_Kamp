@@ -1,0 +1,7 @@
+D:\CSharp_EgitimKampi\CSharpEgitimKampi_Ders1\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+D:\CSharp_EgitimKampi\CSharpEgitimKampi_Ders1\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+D:\CSharp_EgitimKampi\CSharpEgitimKampi_Ders1\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+D:\CSharp_EgitimKampi\CSharpEgitimKampi_Ders1\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+D:\CSharp_EgitimKampi\CSharpEgitimKampi_Ders1\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+D:\CSharp_EgitimKampi\CSharpEgitimKampi_Ders1\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+D:\CSharp_EgitimKampi\CSharpEgitimKampi_Ders1\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
